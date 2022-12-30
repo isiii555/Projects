@@ -1,0 +1,11 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(821,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(933,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1118,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1191,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(452): warning C4715: 'fillBoat': not all control paths return a value
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(514): warning C4715: 'fillBoatRandomUser': not all control paths return a value
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(572): warning C4715: 'fillBoatRandom': not all control paths return a value
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(692): warning C4715: 'hitShip': not all control paths return a value
+C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(714): warning C4715: 'hitShipBot': not all control paths return a value
+  ConsoleApplication3.vcxproj -> C:\Users\user\source\repos\ConsoleApplication45\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
