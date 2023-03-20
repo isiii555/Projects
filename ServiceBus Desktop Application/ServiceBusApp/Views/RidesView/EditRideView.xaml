@@ -1,0 +1,124 @@
+﻿<Window x:Class="ServiceBusApp.Views.RidesView.EditRideView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServiceBusApp.Views.RidesView"
+        mc:Ignorable="d"
+        Title="EditRideView" Height="450" Width="800" FontFamily="Bahnschrift" FontSize="14">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <ListView Grid.Row="0" x:Name="linksListView" ItemsSource="{Binding Students}" SelectedItem="{Binding SelectedStudent}">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="20"/>
+                        <Setter Property="FontWeight" Value="DemiBold"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn  Header="Name" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn  Header="Surname" DisplayMemberBinding="{Binding Surname}"/>
+                        <GridViewColumn  Header="Adress" DisplayMemberBinding="{Binding Adress}"/>
+                        <GridViewColumn Header="ParentName" DisplayMemberBinding="{Binding ParentName}"/>
+                        <GridViewColumn Header="SchoolNumber" DisplayMemberBinding="{Binding SchoolNumber}"/>
+                        <GridViewColumn Header="Personal ID" DisplayMemberBinding="{Binding PersonalId}"/>
+                        <GridViewColumn Header="Actions">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button
+                                       x:Name="AddStd_Btn"
+                                       IsEnabled="{Binding Path=IsSelected, 
+                                    RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListViewItem}}}"
+                                        Margin="10"
+                                        Command="{Binding DataContext.AddStudentCommand, ElementName=linksListView}"
+                                        >
+                                            <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\plus-104.png"/>
+                                        </Button>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView x:Name="List" Grid.Row="1" ItemsSource="{Binding Ride.Students}" SelectedItem="{Binding SelectedStudent}">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="20"/>
+                        <Setter Property="FontWeight" Value="DemiBold"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn  Header="Name" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn  Header="Surname" DisplayMemberBinding="{Binding Surname}"/>
+                        <GridViewColumn  Header="Adress" DisplayMemberBinding="{Binding Adress}"/>
+                        <GridViewColumn Header="ParentName" DisplayMemberBinding="{Binding ParentName}"/>
+                        <GridViewColumn Header="SchoolNumber" DisplayMemberBinding="{Binding SchoolNumber}"/>
+                        <GridViewColumn Header="Personal ID" DisplayMemberBinding="{Binding PersonalId}"/>
+                        <GridViewColumn Header="Actions">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button
+                                       x:Name="RemoveStd_Btn"
+                                       IsEnabled="{Binding Path=IsSelected, 
+                                    RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListViewItem}}}"
+                                        Margin="10"
+                                        Command="{Binding DataContext.RemoveStudentCommand, ElementName=List}"
+                                        >
+                                            <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\3405244.png"/>
+                                        </Button>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label FontWeight="ExtraBold" FontSize="35" HorizontalAlignment="Center">Ride</Label>
+            <StackPanel Orientation="Horizontal">
+                <Label>Driver Name :</Label>
+                <Label Content="{Binding Ride.Driver.Name,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Car Vendor :</Label>
+                <Label Content="{Binding Ride.Driver.Car.Vendor,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Car Model :</Label>
+                <Label Content="{Binding Ride.Driver.Car.Model,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Car Serial number :</Label>
+                <Label Content="{Binding Ride.Driver.Car.SerialNumber,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Students Attend :</Label>
+                <Label Content="{Binding Ride.Students.Count}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Max Seats :</Label>
+                <Label Content="{Binding Ride.Car.SeatCount,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></Label>
+            </StackPanel>
+            <ComboBox ItemsSource="{Binding Drivers}" SelectedItem="{Binding Ride.Driver,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath="Name">
+
+            </ComboBox>
+            <Button Margin="10" Command="{Binding SaveRideCommand}">Save</Button>
+        </StackPanel>
+    </Grid>
+</Window>

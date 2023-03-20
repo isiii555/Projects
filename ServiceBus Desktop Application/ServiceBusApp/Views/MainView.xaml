@@ -1,0 +1,70 @@
+﻿<Window x:Class="ServiceBusApp.Views.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServiceBusApp.Views"
+        mc:Ignorable="d"
+        Title="ServiceBusApplication" Height="768" Width="1366"
+        WindowState="Maximized" Icon="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\school-bus-logo-design-brand-260nw-2017407386-removebg-preview.png"
+        FontFamily="Bahnschrift">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="6*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="2.5*"/>
+            </Grid.RowDefinitions>
+            <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\school-bus-logo-design-brand-260nw-2017407386-removebg-preview.png" Width="160" Height="160"/>
+            <StackPanel VerticalAlignment="Center" Grid.Row="1">
+                <Button
+                    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    ToolTip="MaterialDesignRaisedButton with Round Corners"
+                    Content="Car"
+                    Margin="35"
+                    Command="{Binding CarPageCommand}">
+                </Button>
+                <Button
+                    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    ToolTip="MaterialDesignRaisedButton with Round Corners"
+                    Content="Driver"
+                    Command="{Binding DriverPageCommand}"
+                    Margin="35">
+                </Button>
+                <Button
+                    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    ToolTip="MaterialDesignRaisedButton with Round Corners"
+                    Content="Student"
+                    Command="{Binding StudentPageCommand}"
+                    Margin="35">
+                </Button>
+                <Button
+                    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    ToolTip="MaterialDesignRaisedButton with Round Corners"
+                    Content="Create ride"
+                    Command="{Binding RidePageCommand}"
+                    Margin="35">
+                </Button>
+                <Button
+                    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    ToolTip="MaterialDesignRaisedButton with Round Corners"
+                    Content="Rides"
+                    Margin="35"
+                    Command="{Binding RidesPageCommand}">
+                    
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Frame BorderThickness="1,0,0,0" BorderBrush="Black" NavigationUIVisibility="Hidden" Grid.Column="1" Content="{Binding CurrentPage}">
+            
+        </Frame>
+    </Grid>
+</Window>
