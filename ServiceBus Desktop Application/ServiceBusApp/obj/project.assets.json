@@ -7577,11 +7577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\ServiceBusApp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\Projects\\ServiceBus Desktop Application\\ServiceBusApp\\ServiceBusApp.csproj",
       "projectName": "ServiceBusApp",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\ServiceBusApp.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Projects\\ServiceBus Desktop Application\\ServiceBusApp\\ServiceBusApp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Projects\\ServiceBus Desktop Application\\ServiceBusApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7654,7 +7654,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },

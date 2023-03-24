@@ -10,15 +10,7 @@
         Title="RideStartView" Height="450" Width="800">
     <Grid>
         <map:Map Name="MyMap" ZoomLevel="15" Center="40.409264,49.867092" CredentialsProvider="y2vnKIIGFmwh9zPzRKc2~rYhVoPDIZQ0szeiA7pJwfg~AgAIMqyktSSWLJz3l3JhW97VAg2Qrc0lWy8fRBOK4gWzcsSnygkycQNThlkjD1MA">
-            <i:Interaction.Triggers>
-                <i:EventTrigger EventName="MouseDoubleClick">
-                    <GalaSoft_MvvmLight_Command:EventToCommand 
-                             Command="{Binding MouseDoubleClick}"/>
-                </i:EventTrigger>
-            </i:Interaction.Triggers>
             <map:MapItemsControl ItemsSource="{Binding Elements}"/>
-            <!--<map:Pushpin Location="{Binding StartPushPinLocation}"></map:Pushpin>
-            <map:Pushpin Location="{Binding EndtPushPinLocation}"></map:Pushpin>-->
         </map:Map>
     </Grid>
 </Window>

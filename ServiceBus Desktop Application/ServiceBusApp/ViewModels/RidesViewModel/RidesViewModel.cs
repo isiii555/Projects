@@ -43,10 +43,18 @@ namespace ServiceBusApp.ViewModels.RidesViewModel
         public RelayCommand StartRideCommand {
             get => new RelayCommand(() =>
             {
-                RideStartView window = App.Container.GetInstance<RideStartView>();
-                window.DataContext = new RideStartViewModel(SelectedRide,window.MyMap,window);
-                window.WindowStartupLocation = WindowStartupLocation.CenterScreen;
-                window.ShowDialog();
+                try
+                {
+                    RideStartView window = App.Container.GetInstance<RideStartView>();
+                    window.DataContext = new RideStartViewModel(SelectedRide, window.MyMap, window);
+                    window.WindowStartupLocation = WindowStartupLocation.CenterScreen;
+                    window.ShowDialog();
+                }
+                catch
+                (Exception ex)
+                {
+                    MessageBox.Show("Adress not found,please enter correct adress", "Service Bus Application", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
             });
         }
 

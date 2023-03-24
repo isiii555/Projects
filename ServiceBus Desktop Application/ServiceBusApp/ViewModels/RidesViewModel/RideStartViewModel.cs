@@ -345,18 +345,6 @@ namespace ServiceBusApp.ViewModels.RidesViewModel
             }
         }
 
-        //public RelayCommand MouseDoubleClick
-        //{
-        //    get => new RelayCommand(() =>
-        //    {
-        //        Map.Children.Clear();
-        //        CurrentWindow.Close();
-        //        CurrentWindow = App.Container.GetInstance<RideStartView>();
-        //        CurrentWindow.DataContext = new RideStartViewModel(Ride, Map, CurrentWindow);
-        //        CurrentWindow.ShowDialog();
-        //    });
-        //}
-
         private MapPolyline locations;
 
     }
