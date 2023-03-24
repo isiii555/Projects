@@ -43,7 +43,7 @@ namespace ServiceBusApp.ViewModels
             };
             Drivers = new() {
                 new Driver("islam","salamzade","baku",new Car("kia","sorento","90-zz-667",31)),
-                new Driver("Namiq","Rasullu","Baku",new Car("Mitsubish","Pajero","90-zz-667",30)),
+                new Driver("Namiq","Rasullu","İsmayıllı",new Car("Mitsubish","Pajero","90-zz-667",30)),
                 new Driver("islam","salamzade","baku",new Car("kia","sorento","90-zz-667",31))
             };
             Students = new()
