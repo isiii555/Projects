@@ -20,7 +20,7 @@
                     ToolTip="MaterialDesignRaisedButton with Round Corners"
                     Margin="5" HorizontalAlignment="Left"
                     Command="{Binding AddDriverCommand}">
-                    <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\plus-104.png"/>
+                    <Image Source="https://icons.veryicon.com/png/o/miscellaneous/o2o-middle-school-project/plus-104.png"/>
                 </Button>
                 <!--<TextBox VerticalAlignment="Center" Width="200" Padding="5" HorizontalAlignment="Center">Search</TextBox>-->
             </DockPanel>
@@ -51,7 +51,7 @@
                                         Margin="10"
                                         Command="{Binding DataContext.EditDriverCommand, ElementName=linksListView}"
                                         >
-                                            <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\1827951.png"/>
+                                            <Image Source="https://cdn-icons-png.flaticon.com/512/1827/1827951.png"/>
                                         </Button>
                                         <Button
                                        IsEnabled="{Binding Path=IsSelected, 
@@ -59,7 +59,7 @@
                                         Margin="10"
                                         Command="{Binding DataContext.RemoveDriverCommand, ElementName=linksListView}"
                                         >
-                                            <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\3405244.png"/>
+                                            <Image Source="https://cdn-icons-png.flaticon.com/512/3405/3405244.png"/>
                                         </Button>
                                     </StackPanel>
                                 </DataTemplate>

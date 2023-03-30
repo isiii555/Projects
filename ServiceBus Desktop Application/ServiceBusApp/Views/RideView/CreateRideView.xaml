@@ -46,7 +46,7 @@
                                         Margin="10"
                                         Command="{Binding DataContext.AddStudentCommand, ElementName=linksListView}"
                                         >
-                                            <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\plus-104.png"/>
+                                            <Image Source="https://icons.veryicon.com/png/o/miscellaneous/o2o-middle-school-project/plus-104.png"/>
                                         </Button>
                                     </StackPanel>
                                 </DataTemplate>
@@ -82,7 +82,7 @@
                                         Margin="10"
                                         Command="{Binding DataContext.RemoveStudentCommand, ElementName=linksListView}"
                                         >
-                                            <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\3405244.png"/>
+                                            <Image Source="https://cdn-icons-png.flaticon.com/512/3405/3405244.png"/>
                                         </Button>
                                     </StackPanel>
                                 </DataTemplate>

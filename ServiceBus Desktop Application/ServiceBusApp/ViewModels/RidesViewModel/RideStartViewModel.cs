@@ -223,21 +223,21 @@ namespace ServiceBusApp.ViewModels.RidesViewModel
                     if (Ride.ToSchool)
                     {
                         Bus = new Pushpin() { Location = mapLocation, ToolTip = "Bus" };
-                        Bus.Background = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\Resources\\422962.png")));
+                        Bus.Background = new ImageBrush(new BitmapImage(new Uri("https://cdn-icons-png.flaticon.com/512/422/422962.png")));
                         Map.Children.Add(Bus);
 
                         DriverHome = new Pushpin() { Location = mapLocation, ToolTip = "Driver's Home" };
-                        DriverHome.Background = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\Resources\\25694.png")));
+                        DriverHome.Background = new ImageBrush(new BitmapImage(new Uri("https://cdn-icons-png.flaticon.com/512/25/25694.png")));
                         Map.Children.Add(DriverHome);
                     }
                     else
                     {
                         Bus = new Pushpin() { Location = mapLocation, ToolTip = "Bus" };
-                        Bus.Background = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\Resources\\422962.png")));
+                        Bus.Background = new ImageBrush(new BitmapImage(new Uri("https://cdn-icons-png.flaticon.com/512/422/422962.png")));
                         Map.Children.Add(Bus);
 
                         School = new Pushpin() { Location = mapLocation, ToolTip = "School" };
-                        School.Background = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\Resources\\167707.png")));
+                        School.Background = new ImageBrush(new BitmapImage(new Uri("https://cdn-icons-png.flaticon.com/512/167/167707.png")));
                         Map.Children.Add(School);
                     }
                 }
@@ -268,13 +268,13 @@ namespace ServiceBusApp.ViewModels.RidesViewModel
                     if (!Ride.ToSchool)
                     {
                         DriverHome = new Pushpin() { Location = mapLocation, ToolTip = "Driver's Home" };
-                        DriverHome.Background = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\Resources\\25694.png")));
+                        DriverHome.Background = new ImageBrush(new BitmapImage(new Uri("https://cdn-icons-png.flaticon.com/512/25/25694.png")));
                         Map.Children.Add(DriverHome);
                     }
                     else if (Ride.ToSchool)
                     {
                         School = new Pushpin() { Location = mapLocation, ToolTip = $"School" };
-                        School.Background = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\Resources\\167707.png")));
+                        School.Background = new ImageBrush(new BitmapImage(new Uri("https://cdn-icons-png.flaticon.com/512/167/167707.png")));
                         Map.Children.Add(School);
                     }
                 }
@@ -300,7 +300,7 @@ namespace ServiceBusApp.ViewModels.RidesViewModel
                         var longitude = toolkitLocation.Point.Coordinates[1];
                         var mapLocation = new Microsoft.Maps.MapControl.WPF.Location(latitude, longitude);
                         var p = new Pushpin() { Location = mapLocation, ToolTip = $"{Ride.Students[i].Name}'s Home" };
-                        p.Background = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\user\\source\\repos\\ConsoleApplication45\\ServiceBusApp\\ServiceBusApp\\Resources\\201818.png")));
+                        p.Background = new ImageBrush(new BitmapImage(new Uri("https://cdn-icons-png.flaticon.com/512/201/201818.png")));
                         Map.Children.Add(p);
                         Students1.Add(p);
                     }

@@ -18,7 +18,7 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="2.5*"/>
             </Grid.RowDefinitions>
-            <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\school-bus-logo-design-brand-260nw-2017407386-removebg-preview.png" Width="160" Height="160"/>
+            <Image Source="https://www.wavetransit.com/wp-content/uploads/2017/03/wave-connect-bus-icon-300x300.png" Width="160" Height="160"/>
             <StackPanel VerticalAlignment="Center" Grid.Row="1">
                 <Button
                     IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"

@@ -36,7 +36,7 @@
                                         Margin="10"
                                         Command="{Binding DataContext.RemoveRideCommand, ElementName=List}"
                                         >
-                                        <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\3405244.png"/>
+                                        <Image Source="https://cdn-icons-png.flaticon.com/512/3405/3405244.png"/>
                                     </Button>
                                     <Button
                                        x:Name="EditRide_Btn"
@@ -45,7 +45,7 @@
                                         Margin="10"
                                         Command="{Binding DataContext.EditRideCommand, ElementName=List}"
                                         >
-                                        <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\1827951.png"/>
+                                        <Image Source="https://cdn-icons-png.flaticon.com/512/1827/1827951.png"/>
                                     </Button>
                                     <Button
                                        x:Name="StartRide_Btn"
@@ -54,7 +54,7 @@
                                         Margin="10"
                                         Command="{Binding DataContext.StartRideCommand, ElementName=List}"
                                         >
-                                        <Image Source="C:\Users\user\source\repos\ConsoleApplication45\ServiceBusApp\ServiceBusApp\Resources\start-14.png"/>
+                                        <Image Source="https://icons.veryicon.com/png/o/commerce-shopping/jinfeng-technology-icon-library/start-14.png"/>
                                     </Button>
                                 </StackPanel>
                             </DataTemplate>
