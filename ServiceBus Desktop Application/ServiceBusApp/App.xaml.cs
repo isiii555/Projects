@@ -25,6 +25,7 @@ namespace ServiceBusApp
         public static Container? Container { get; set; }
         protected override void OnStartup(StartupEventArgs e)
         {
+            Pass();
             Register();
             var window = Container.GetInstance<MainView>();
             window.DataContext = new MainViewModel();
@@ -34,6 +35,10 @@ namespace ServiceBusApp
             Current.Shutdown();
         }
 
+        private void Pass()
+        {
+
+        }
         private void Register()
         {
             Container = new();
