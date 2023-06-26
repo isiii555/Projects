@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="ServiceBusApp.Presentation.Views.AddParentView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ServiceBusApp.Presentation.Views"
+             xmlns:viewModel="clr-namespace:ServiceBusApp.Presentation.ViewModels"
+             xmlns:property="clr-namespace:ServiceBusApp.Presentation.Property"
+             d:DataContext="{d:DesignInstance Type=viewModel:AddParentViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Background="White">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Label Margin="15" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="45" FontWeight="ExtraBold" FontStyle="Normal">ADD PARENT</Label>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label>Name</Label>
+            <TextBox Name="Name_txt" Text="{Binding Parent.FirstName}" Width="400" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>Surname</Label>
+            <TextBox Name="Surname_txt" Text="{Binding Parent.LastName}" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>Phone Number</Label>
+            <TextBox Name="Adress_txt" Text="{Binding Parent.PhoneNumber}" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>Username</Label>
+            <TextBox Name="Username_txt" Text="{Binding Parent.Username}" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>Password</Label>
+            <PasswordBox x:Name="Password_box" FontSize="25" Foreground="Gray" property:BindablePasswordBox.Password="{Binding Parent.Password,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" property:BindablePasswordBox.Attach="True" ></PasswordBox>
+        </StackPanel>
+        <Button Grid.Row="2" Width="100" Command="{Binding CreateCommand}" Content="Create" >
+        </Button>
+    </Grid>
+</UserControl>

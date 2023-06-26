@@ -1,0 +1,282 @@
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.exe
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.dll.config
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.deps.json
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.pdb
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Ardalis.GuardClauses.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\JetBrains.Annotations.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Models.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Data.pdb
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Models.pdb
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddCarView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddClassView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddDriverView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddParentView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddStudentView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\CarsView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\ClassesView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\DriversView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditCarView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditClassView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditDriverView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditParentView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditRideView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditStudentView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\ParentsView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\RidesView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\RidesView2.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\StudentsView.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation_MarkupCompile.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation_MarkupCompile.lref
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddCarView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddClassView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddDriverView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddParentView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddStudentView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\CarsView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\ClassesView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\DriversView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditCarView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditClassView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditDriverView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditParentView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditRideView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditStudentView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\ParentsView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\RidesView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\RidesView2.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\StudentsView.baml
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.g.resources
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\refint\ServiceBusApp.Presentation.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.pdb
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ref\ServiceBusApp.Presentation.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Data.dll.config
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.exe
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.dll.config
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.deps.json
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Presentation.pdb
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Ardalis.GuardClauses.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\JetBrains.Annotations.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Models.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Data.pdb
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Data.dll.config
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\bin\Debug\net6.0-windows\ServiceBusApp.Models.pdb
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddCarView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddClassView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddDriverView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddParentView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddStudentView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\CarsView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\ClassesView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\DriversView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditCarView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditClassView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditDriverView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditParentView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditRideView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditStudentView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\ParentsView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\RidesView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\RidesView2.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\StudentsView.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation_MarkupCompile.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation_MarkupCompile.lref
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddCarView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddClassView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddDriverView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddParentView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\AddStudentView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\CarsView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\ClassesView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\DriversView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditCarView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditClassView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditDriverView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditParentView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditRideView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\EditStudentView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\ParentsView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\RidesView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\RidesView2.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\Views\StudentsView.baml
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.g.resources
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\refint\ServiceBusApp.Presentation.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.pdb
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ServiceBusApp.Presentation.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\ref\ServiceBusApp.Presentation.dll

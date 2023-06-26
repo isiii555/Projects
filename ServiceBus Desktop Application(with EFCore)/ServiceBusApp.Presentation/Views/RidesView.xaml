@@ -1,0 +1,126 @@
+﻿<UserControl x:Class="ServiceBusApp.Presentation.Views.RidesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ServiceBusApp.Presentation.Views"
+             xmlns:viewModel ="clr-namespace:ServiceBusApp.Presentation.ViewModels"
+             d:DataContext="{d:DesignInstance Type=viewModel:RideViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Background="White">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <ListView Grid.Row="0" x:Name="Student_list" ItemsSource="{Binding Students}" SelectedItem="{Binding SelectedStudent}">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="20"/>
+                        <Setter Property="FontWeight" Value="DemiBold"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn DisplayMemberBinding="{Binding Id}" Header="Student Id" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding FirstName}" Header="First Name" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding LastName}" Header="Last Name" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding CreationTime}" Header="CreationTime" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding LastModifiedTime}" Header="LastModifiedTime" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Parent}" Header="Parent" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Class.Name}" Header="Class Name" ></GridViewColumn>
+                        <GridViewColumn Header="Actions">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button
+                                       x:Name="AddStudents_Btn"
+                                       IsEnabled="{Binding Path=IsSelected, 
+                                    RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListViewItem}}}"
+                                        Margin="10"
+                                        Command="{Binding DataContext.AddStudentCommand, ElementName=Student_list}"
+                                        Height="30"
+                                        Width="30"
+                                        Background="SeaGreen"
+                                        >
+                                        <Image Source="https://icons.veryicon.com/png/o/miscellaneous/o2o-middle-school-project/plus-104.png"/>
+                                    </Button>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView x:Name="RideStudent_list" Grid.Row="1" ItemsSource="{Binding TempStudents}" SelectedItem="{Binding SelectedStudent}">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="FontSize" Value="20"/>
+                        <Setter Property="FontWeight" Value="DemiBold"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn DisplayMemberBinding="{Binding Id}" Header="Student Id" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding FirstName}" Header="First Name" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding LastName}" Header="Last Name" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding CreationTime}" Header="CreationTime" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding LastModifiedTime}" Header="LastModifiedTime" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Parent}" Header="Parent" ></GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Class.Name}" Header="Class Name" ></GridViewColumn>
+                        <GridViewColumn Header="Actions">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button
+                                       x:Name="RemoveStudent_Btn"
+                                       IsEnabled="{Binding Path=IsSelected, 
+                                    RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListViewItem}}}"
+                                        Margin="10"
+                                        Height="30"
+                                        Width="30"
+                                        Background="SeaGreen"
+                                        Command="{Binding DataContext.RemoveStudentCommand, ElementName=RideStudent_list}"
+                                        >
+                                        <Image Source="https://cdn-icons-png.flaticon.com/512/3405/3405244.png"/>
+                                    </Button>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label FontWeight="ExtraBold" FontSize="35" HorizontalAlignment="Center">Ride</Label>
+            <StackPanel Orientation="Horizontal">
+                <Label>Driver Name :</Label>
+                <Label Content="{Binding SelectedDriver.FirstName}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Car Name :</Label>
+                <Label Content="{Binding SelectedDriver.Car.Name}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Car Serial number :</Label>
+                <Label Content="{Binding SelectedDriver.Car.CarNumber}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Students Attend :</Label>
+                <Label Content="{Binding StudentCount}"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Max Seats :</Label>
+                <Label Content="{Binding SelectedDriver.Car.SeatCount}"></Label>
+            </StackPanel>
+            <ComboBox ItemsSource="{Binding Drivers}" SelectedItem="{Binding SelectedDriver}">
+
+            </ComboBox>
+            <Button Margin="10" Command="{Binding CreateRideCommand}">Create</Button>
+        </StackPanel>
+    </Grid>
+</UserControl>

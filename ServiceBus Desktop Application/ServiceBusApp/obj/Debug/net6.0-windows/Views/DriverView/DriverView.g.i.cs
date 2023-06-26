@@ -61,7 +61,7 @@ namespace ServiceBusApp.Views.DriverView {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ServiceBusApp;component/views/driverview/driverview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ServiceBusApp;V1.0.0.0;component/views/driverview/driverview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\DriverView\DriverView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

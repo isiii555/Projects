@@ -61,7 +61,7 @@ namespace ServiceBusApp.Views.RidesView {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ServiceBusApp;component/views/ridesview/ridesview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ServiceBusApp;V1.0.0.0;component/views/ridesview/ridesview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\RidesView\RidesView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

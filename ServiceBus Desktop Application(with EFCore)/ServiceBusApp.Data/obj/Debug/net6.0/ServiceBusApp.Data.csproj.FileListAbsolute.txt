@@ -1,0 +1,36 @@
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.deps.json
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.pdb
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Models.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Models.pdb
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\refint\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.pdb
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\obj\Debug\net6.0\ref\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\FinalTask\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.dll.config
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.dll.config
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.deps.json
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Data.pdb
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Models.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\bin\Debug\net6.0\ServiceBusApp.Models.pdb
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\refint\ServiceBusApp.Data.dll
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.pdb
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ServiceBusApp.Data.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Data\obj\Debug\net6.0\ref\ServiceBusApp.Data.dll

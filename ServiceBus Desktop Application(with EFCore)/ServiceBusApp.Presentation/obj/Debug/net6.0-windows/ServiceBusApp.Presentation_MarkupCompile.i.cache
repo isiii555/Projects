@@ -1,0 +1,20 @@
+﻿ServiceBusApp.Presentation
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\
+ServiceBusApp.Presentation
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\user\OneDrive\Masaüstü\ServiceBus Desktop Application(with EFCore)\ServiceBusApp.Presentation\App.xaml
+191683942184
+
+46-996537805
+235-1303671669
+Views\AddCarView.xaml;Views\AddClassView.xaml;Views\AddDriverView.xaml;Views\AddParentView.xaml;Views\AddStudentView.xaml;Views\CarsView.xaml;Views\ClassesView.xaml;Views\DriversView.xaml;Views\EditCarView.xaml;Views\EditClassView.xaml;Views\EditDriverView.xaml;Views\EditParentView.xaml;Views\EditRideView.xaml;Views\EditStudentView.xaml;Views\MainWindow.xaml;Views\ParentsView.xaml;Views\RidesView.xaml;Views\RidesView2.xaml;Views\StudentsView.xaml;
+
+True
+
